@@ -20,7 +20,7 @@
         
         <main>
             <figure>
-                <img src="images/not-a-cat.png">
+                <img src="images/not-a-cat.png" alt="Is it a cat or not?">
             </figure>
             
             <div>
