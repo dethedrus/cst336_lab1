@@ -15,7 +15,7 @@
         <hr>
         
         <nav>
-            <a href="index.html" style="color:#FF0000;"><strong>Home</strong></a>
+            <a href="index.php" style="color:#FF0000;"><strong>Home</strong></a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
